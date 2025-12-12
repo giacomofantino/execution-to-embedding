@@ -2,7 +2,7 @@
 
 This repository supports the reproducibility of the study "From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation", providing scripts, datasets, and model code for training comment-generation models from data wrangling notebooks.
 
-All the data, checkpoints and notebooks are available from [zenodo](https://zenodo.org/records/17198749?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM4NTFiZDg3LTA4NWYtNDlkYi04NjI1LTUyMGY0MjY5MDZjNiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYjQ4MDY1NDczN2IzYmNjYjM5NGFmMjAzOTg4MDY1YiJ9.9MhKjGBB_B6sLUdjyumFNDSnyJphSyZsYn6uCnaed3vcSp5luDlm2Q1nDkfHvUGNwXHBu_eqo9c-UaxEzXNmyw).
+All the data, checkpoints and notebooks are available from [zenodo](https://zenodo.org/records/17198749).
 
 The ZIP file contains three main directories related to dataset creation and model training:
 
@@ -134,4 +134,5 @@ The parameters are:
    To ensure full compatibility, use the provided libs.txt to recreate the runtime.
 
 ## 📄 License
+
 This project is licensed under the Creative Commons Attribution 4.0 International License.
