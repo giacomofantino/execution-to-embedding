@@ -1,6 +1,7 @@
 # From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation
 
-This repository supports the reproducibility of the study "From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation", providing scripts, datasets, and model code for training comment-generation models from data wrangling notebooks.
+This repository contains the code and data accompanying the paper *From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation*, accepted to ICSE NIER 2026.
+It provides scripts, datasets, and model code for training comment-generation models on data-wrangling notebooks.
 
 All the data, checkpoints and notebooks are available from [zenodo](https://zenodo.org/records/17198749).
 
@@ -136,3 +137,11 @@ The parameters are:
 ## 📄 License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License.
+
+## Reference
+
+This repository accompanies the following paper:
+
+Giacomo Fantino, Antonio Vetrò, Marco Torchiano, and Federica Cappelluti.  
+**From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation.**  
+In *Proceedings of the International Conference on Software Engineering: New Ideas and Emerging Results (ICSE NIER)*, 2026.
